@@ -1,9 +1,5 @@
-# Getting Started
+# React Native Crash Course
 
-> **Note**: Make sure you have completed the [Set Up Your Environment](https://reactnative.dev/docs/set-up-your-environment) guide before proceeding.
+> **Note**: React Native Crash Course by Hitesh Choudhary
 
-## Step 1: Start Metro
-
-First, you will need to run **Metro**, the JavaScript build tool for React Native.
-
-To start the Metro dev server, run the following command from the root of your React Native project:
+## Step 1: Complete React-Native Course 
